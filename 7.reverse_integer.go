@@ -9,7 +9,7 @@ import (
 	"fmt"
 )
 
-const Max = 2147483647
+const Max = 1 << 31
 
 func main() {
 	fmt.Println(reverse(1534236469))
