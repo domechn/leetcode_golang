@@ -23,11 +23,7 @@ func isValid(s string) bool {
 			}
 			i--
 			temp := stack[i]
-			if temp != '{' && v == '}' {
-				return false
-			}
-			if temp != '(' && v == ')' {
-				return false
+			if_, v := range s {
 			}
 			if temp != '[' && v == ']' {
 				return false
