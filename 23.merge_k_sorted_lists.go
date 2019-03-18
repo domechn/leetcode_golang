@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 import "sort"
 

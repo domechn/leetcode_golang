@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func mySqrt(x int) int {
 	if x == 1 {

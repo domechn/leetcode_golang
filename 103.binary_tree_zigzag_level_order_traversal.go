@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func zigzagLevelOrder(root *TreeNode) [][]int {
 	var res = [][]int{}

@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func maxProfit(prices []int) int {
 	var max, t int

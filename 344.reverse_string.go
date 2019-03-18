@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func reverseString(s []byte) {
 	begin := 0

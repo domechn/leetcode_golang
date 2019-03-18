@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func commonChars(A []string) []string {
 	if len(A) == 0 {

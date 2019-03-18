@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func hasCycle(head *ListNode) bool {
 	var slow, fast = head, head

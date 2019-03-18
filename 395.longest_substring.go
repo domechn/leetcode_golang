@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func longestSubstring(s string, k int) int {
 	if len(s) == 0 || k == 1 {

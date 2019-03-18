@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func invertTree(root *TreeNode) *TreeNode {
 	temp := root

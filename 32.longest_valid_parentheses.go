@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func longestValidParentheses(s string) int {
 	var stack []int32

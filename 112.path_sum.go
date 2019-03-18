@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func hasPathSum(root *TreeNode, sum int) bool {
 	if root == nil {

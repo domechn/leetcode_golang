@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func merge(nums1 []int, m int, nums2 []int, n int) {
 	var p = m + n - 1

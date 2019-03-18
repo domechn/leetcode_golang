@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func myPow(x float64, n int) float64 {
 	if n == 1 {

@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func levelOrder(root *TreeNode) [][]int {
 	var res [][]int

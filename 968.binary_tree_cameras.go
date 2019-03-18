@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func minCameraCover(root *TreeNode) int {
 	res := slove(root)

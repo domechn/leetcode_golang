@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func searchMatrix(matrix [][]int, target int) bool {
 	if len(matrix) == 0 {

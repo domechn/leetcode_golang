@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func longestOnes(A []int, K int) int {
 	var left, count, res int

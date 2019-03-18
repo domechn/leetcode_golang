@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func plusOne(digits []int) []int {
 	if len(digits) == 0 {

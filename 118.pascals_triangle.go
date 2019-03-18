@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func generate(numRows int) [][]int {
 	var res [][]int

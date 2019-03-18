@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func climbStairs(n int) int {
 	f, g := 1, 2

@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func longestConsecutive(nums []int) int {
 	var temp = make(map[int]int)

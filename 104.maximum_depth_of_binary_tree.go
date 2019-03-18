@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func maxDepth(root *TreeNode) int {
 	if root == nil {

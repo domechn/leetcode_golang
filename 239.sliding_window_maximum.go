@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func maxSlidingWindow(nums []int, k int) []int {
 	if k < 1 || k > len(nums) {

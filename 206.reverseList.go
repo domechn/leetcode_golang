@@ -9,7 +9,7 @@
 #   Describe      :
 #
 # ====================================================*/
-package leet
+package main
 
 func reverseList(head *ListNode) *ListNode {
 	var rev *ListNode
